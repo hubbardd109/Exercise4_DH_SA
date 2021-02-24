@@ -1,4 +1,4 @@
-Logistic model
+
 ##'
 ##' @param theta  parameter vector
 ##' @param x      vector of x values
